@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+.alignment {
+    text-align: center;
+    line-height: 50px;
+}
+label {
+    padding-left: 100px;
+    padding-right: 12px;
+    padding-bottom: 100px;
+}
+
+form {
+    
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+
+input[type=button] {
+    width: 20%;
+    height: 40px;
+    background-color: pink;
+    line-height: 40%;
+}

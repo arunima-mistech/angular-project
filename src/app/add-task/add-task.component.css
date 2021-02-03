@@ -1,0 +1,16 @@
+.form-group{
+    margin-top: 15px;
+    margin-left: 8px;
+    max-width: 700px;
+	width: 80%;
+	margin: 0 auto;
+	padding: 5px 0;
+	font-size: 15px;
+	line-height: .5;
+	font-family: 'Times New Roman', sans-serif;
+
+    }
+.btn{
+	float:left;
+}
+
